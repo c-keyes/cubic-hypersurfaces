@@ -4,3 +4,4 @@ It is used in the paper - joint with Lea Beneish - titled "How often does a cubi
 Files:
 * computing_rho_p.ipynb: contains the main computation of rho(p), the local density of p-adic cubic forms with a p-adic point
 * presenting_rho.ipynb:  turns the symbolic expressions for rho(p) into the condensed expressions which appear in the paper. Checks they agree with the originals and produces LaTeX.
+* rho_numerics.ipynb:    give precise estimates for the product of rho(p) over all primes by truncating appropriately.
